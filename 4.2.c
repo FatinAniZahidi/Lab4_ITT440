@@ -43,7 +43,7 @@ int main(int argc , char *argv[])
 		puts("recv failed");
 	}
 	puts("Reply received\n");
-	puts(server_reply);
+	//puts(server_reply);
 
 	return 0;
 }
